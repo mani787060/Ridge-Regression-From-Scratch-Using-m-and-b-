@@ -99,15 +99,17 @@ A built-in regression dataset from Scikit-Learn used to predict disease progress
 
 ---
 
-## 🏁 Conclusion
-
-Ridge Regression extends Linear Regression by adding an L2 penalty term that discourages large coefficient values. By implementing the algorithm from scratch using m and b, this project provides a clear understanding of how regularization improves model performance and prevents overfitting.
-
----
-
 ## 💻 Technologies Used
 
 * Python
 * NumPy
 * Pandas
 * Matplotlib
+  
+---
+
+## 🏁 Conclusion
+
+Ridge Regression extends Linear Regression by adding an L2 penalty term that discourages large coefficient values. By implementing the algorithm from scratch using m and b, this project provides a clear understanding of how regularization improves model performance and prevents overfitting.
+
+
